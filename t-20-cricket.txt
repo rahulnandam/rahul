@@ -1,6 +1,8 @@
 sachin
 dravid
 kohili
-dhoni
+dhoni(capital)
 vvs
 shewag
+raina
+
